@@ -1,0 +1,122 @@
+{
+  "version": "1.0.1 Beta",
+  "initsetup": true,
+  "name": "\\Cypher",
+  "tagline": "Setup a Bitcoin Only Business",
+  "contactmail": "",
+  "textlogo": "\\Cypher",
+  "logo": false,
+  "logoimage": "NG_Logo_CypherSpace.gif",
+  "logodark": false,
+  "logodarkimage": "NG_Logo_CypherSpace_Dark.gif",
+  "multilang": true,
+  "defaultlanguage": "en",
+  "adminlanguage": "en",
+  "blog": true,
+  "shop": true,
+  "openfinance": false,
+  "basecurrency": "btc",
+  "testnet": "false",
+  "btcadress": "",
+  "lnurl": "thewildhustle@stacker.news",
+  "albytoken": "MDQ3YZNJYJYTYMFLMI0ZODDHLTK0ODMTNTHJZTYYMZJLZDBH",
+  "orderwebhook": "https://discord.com/api/webhooks/1210994387660705923/ndfQLtY2aEXIV7Cjui9Hna3_dXEN2m_IjRTLr8M-H0OQIAKZ9N8VqicoeAz-GB1kZaCG",
+  "nostr": true,
+  "nostradmin": "npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn",
+  "nostrrelay": "wss://relay.damus.io",
+  "footerlanguage": true,
+  "footersocials": true,
+  "footertheme": true,
+  "socialnavigation": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "github": "https://github.com/cypher-space",
+    "discord": "https://discord.gg/Ueh4qkJYsz",
+    "dribble": "",
+    "linkedin": "",
+    "telegram": "https://t.me/+TcCsAJNJrRxkNDk0",
+    "nostr": "https://nostrcheck.me/u/cypher"
+  },
+  "Headernavigation": {
+    "basicmenu": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Product",
+        "href": "/product"
+      }
+    ],
+    "MenuPopupName": "",
+    "MenuPopup": [
+      {
+        "name": "Example Item",
+        "description": "Enable by entering a name in MenuPopupName",
+        "href": "/"
+      }
+    ]
+  },
+  "Footernavigation": {
+    "columntitels": [
+      {
+        "column1": "Support",
+        "column2": "Products",
+        "column3": "Articles",
+        "column4": "Legal"
+      }
+    ],
+    "FooterColums": {
+      "col1": [
+        {
+          "name": "Home",
+          "href": "/"
+        },
+        {
+          "name": "Product",
+          "href": "/product"
+        }
+      ],
+      "col2": [
+        {
+          "name": "Shop",
+          "href": "/shop"
+        },
+        {
+          "name": "Cart",
+          "href": "/cart"
+        },
+        {
+          "name": "Shipping",
+          "href": "/shipping"
+        }
+      ],
+      "col3": [
+        {
+          "name": "Blog",
+          "href": "/blog"
+        },
+        {
+          "name": "Checklist",
+          "href": "/checklist"
+        }
+      ],
+      "col4": [
+        {
+          "name": "Disclaimer",
+          "href": "/disclaimer"
+        },
+        {
+          "name": "Credit",
+          "href": "/credit"
+        },
+        {
+          "name": "Terms of service",
+          "href": "/tos"
+        }
+      ]
+    }
+  },
+  "finance": true
+}
